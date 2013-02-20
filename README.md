@@ -1,6 +1,8 @@
 Retriever: A Bootstrap Theme with a Very Small Footprint
 =========
 
+See the demo: [http://retriever-bootstrap.herokuapp.com](http://retriever-bootstrap.herokuapp.com)
+
 This theme gives bootstrap a new menu with a stich background, a new well design and new fonts. The theme is only 60 lines of CSS so it doesn't get in your way. 
 
 ### Installation: 
