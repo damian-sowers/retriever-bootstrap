@@ -1,9 +1,0 @@
-== Retriever: A Bootstrap Theme with a Very Small Footprint
-
-This theme gives bootstrap a new menu with a stich background, a new well design and new fonts. The theme is only 60 lines of CSS so it doesn't get in your way. 
-
-== Installation: 
-
-Just download the zip and include retriever.css after bootstrap.css (and after bootstrap-responsive if you want it to be responsive). You will also need the stich.png image for the header. 
-
-For a fixed header navbar, be sure to include an 80px padding at the top of your document. To change to a static navbar, just changed "navbar-fixed-top" to "navbar-static-top" and alter the top padding to around 20px. 
