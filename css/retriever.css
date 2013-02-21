@@ -13,6 +13,7 @@ h1, h2, h3, h4, h5 {
 	background-image: url('../img/stich.png');
 	background-repeat: repeat-x;
 	background-color:#333;
+	height:49px;
 }
 .navbar .brand {
 	font-family: 'Raleway', sans-serif;
